@@ -14,3 +14,5 @@ So here's a short, succinct version of what's going on :
 "To implement a peer-to-peer image sharing application that uses an optimal compression algorithm to send compressed image files over an ad-hoc Wi-Fi network."
 
 Yep, **that is** what we will do.
+
+Made by Anand M P, Ronn Jacob, and Sreeraag Mohan.
