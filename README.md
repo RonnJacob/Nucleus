@@ -15,4 +15,4 @@ So here's a short, succinct version of what's going on :
 
 Yep, **that is** what we will do.
 
-Made by Anand M P, Ronn Jacob, and Sreeraag Mohan.
+Made by **Anand M P, Ronn Jacob,** and **Sreeraag Mohan.**
